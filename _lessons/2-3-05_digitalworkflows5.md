@@ -5,7 +5,7 @@ title: "Activity: Thinking About Archival Sources in Digital Workflows"
 group: projectmanagement
 abstract: "In this lesson, students will look to archival objects to think about the affordances associated with specific research materials." 
 lessonnumber: 5
-lessonprint: 5
+lessonprint:
 permalink: /lessons/projectmanagement/digitalworkflows/5
 nest: nonest
 previouslesson: /lessons/projectmanagement/digitalworkflows/4

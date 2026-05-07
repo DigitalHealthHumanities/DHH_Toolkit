@@ -5,7 +5,7 @@ title: "Prototyping"
 group: projectmanagement
 abstract: "This lesson outlines the concepts behind prototyping in the digital humanities." 
 lessonnumber: 7
-lessonprint: 7
+lessonprint:
 permalink: /lessons/projectmanagement/digitalworkflows/7
 nest: nonest
 previouslesson: /lessons/projectmanagement/digitalworkflows/6

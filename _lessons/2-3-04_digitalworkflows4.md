@@ -5,7 +5,7 @@ title: "Activity: Incorporating Digital Tools to Research Workflows"
 group: projectmanagement
 abstract: "In this lesson, students will begin to think about the ways digital programs can link together to produce research using the network mapping program Gephi as an example."
 lessonnumber: 4
-lessonprint: 4
+lessonprint:
 permalink: /lessons/projectmanagement/digitalworkflows/4
 nest: nonest
 previouslesson: /lessons/projectmanagement/digitalworkflows/3

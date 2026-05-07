@@ -5,7 +5,7 @@ title: "Activity: Thinking Backwards, Thinking Forwards"
 group: projectmanagement
 abstract: "This lesson introduces students to the problems which arise when scholars work with multiple digital and analog tools in their research."
 lessonnumber: 3
-lessonprint: 3
+lessonprint:
 permalink: /lessons/projectmanagement/digitalworkflows/3
 nest: nonest
 previouslesson: /lessons/projectmanagement/digitalworkflows/2

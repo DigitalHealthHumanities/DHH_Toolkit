@@ -5,7 +5,7 @@ title: "Workflows in the Digital Humanities"
 group: projectmanagement
 abstract: "This lesson introduces students to the problems which arise when scholars work with multiple digital and analog tools in their research."
 lessonnumber: 2
-lessonprint: 2
+lessonprint:
 permalink: /lessons/projectmanagement/digitalworkflows/2
 nest: nonest
 previouslesson: /lessons/projectmanagement/digitalworkflows/1
