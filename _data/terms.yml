@@ -1,3 +1,34 @@
+# Tools Lessons
+
+# Excel
+
+/lessons/DB/excel/1:
+
+  - term: "Tabular Data"
+    definition: "Tabular data refers to a collection of specific information in which every piece of information is described using pre-defined categories and can be mapped into a table. Every data point has a unique coordinate, and every column and row is formatted to be unified by a specific characteristic."
+
+  - term: "Metadata"
+    definition: "Metadata refers to information about information, and it is a pillar of the library sciences. Metadata helps make sense of files, objects, or born-digital materials by describing important information—like author, publishing date, or publisher for a book—which can then be used to organize multiple objects in relation to each other."
+
+/lessons/DB/excel/2:
+  - term: "Excel Cells"
+    definition: "Cells are the different data entry points across your spreadsheet. They are demarcated through an annotation system that places them in a column and a row. They are written as [ColumnLetter][RowNumber]. Multiple cells are notated using the same format with a colon between, written as [ColumnLetter][RowNumber]:[ColumnLetter][RowNumber]. C2:D5 would include every C cell between C2 and C5 and every D cell between D2 and D5."
+
+/lessons/DB/excel/3:
+#  - term: "Excel Functions"
+#    definition: "Functions in Excel are pre-programmed processes that allow users to do complex match, data analytics, and data transformation in their workbooks. These functions often take structured inputs—in the form of numerical data, strings, or data from one or more cells—and output new information into the cell containing the function based on those inputs. They can use used to automate data throughout your spreadsheets.”
+
+/lessons/DB/excel/3:
+  - term: "Excel Sheets" 
+    definition: "A sheet is a unique single-page spreadsheet that is part of a larger collection of spreadsheets. They can be accessed at the bottom left side of the Excel interface."
+
+  - term: "Functions in Excel"
+    definition: "Functions in Excel are pre-programmed processes that allow users to do complex match, data analytics, and data transformation in their workbooks. These functions often take structured inputs—in the form of numerical data, strings, or data from one or more cells—and output new information into the cell containing the function based on those inputs. They can use used to automate data throughout your spreadsheet."
+
+# Project Management Lessons
+
+# Workflow
+
 /lessons/projectmanagement/digitalworkflows/1:
   - term: "Workflow"
     definition: "A workflow describes the progression of physical and digital objects as they are processed using digital tools or practical methods. Developing workflows helps scholars more easily process their data, primary materials, or secondary sources in support of their argument."
